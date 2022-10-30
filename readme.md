@@ -1,7 +1,3 @@
 # Github
 
-Arquivo da aula de Git e Github para iniciantes
-
-Acesse o link [Clico de vida dos arquivos](https://www.youtube.com/watch?v=MOuN_cYcsJ4)
-
-Este arquivo é apenas um teste para aula :)
+Atividades realizadas durante o programa Reset da empresa CWI
